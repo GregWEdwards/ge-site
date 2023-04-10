@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ge-site/static/css/main.073c9b0a.css",
+    "main.js": "/ge-site/static/js/main.5370250f.js",
+    "static/js/787.62449090.chunk.js": "/ge-site/static/js/787.62449090.chunk.js",
+    "static/media/logo.svg": "/ge-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ge-site/index.html",
+    "main.073c9b0a.css.map": "/ge-site/static/css/main.073c9b0a.css.map",
+    "main.5370250f.js.map": "/ge-site/static/js/main.5370250f.js.map",
+    "787.62449090.chunk.js.map": "/ge-site/static/js/787.62449090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5370250f.js"
+  ]
+}
